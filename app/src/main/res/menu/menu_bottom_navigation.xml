@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+<item android:id="@+id/mn1"
+    android:icon="@drawable/home"
+    android:title="home"
+    app:showAsAction="always"/>
+    <item android:id="@+id/mn2"
+        android:icon="@drawable/heart"
+        android:title="h"
+        app:showAsAction="always"/>
+
+    <item android:id="@+id/mn3"
+        android:icon="@drawable/people"
+        android:title="pp"
+        app:showAsAction="always"/>
+
+    <item android:id="@+id/mn4"
+        android:icon="@drawable/ic_baseline_settings_24"
+        android:title="ic"
+        app:showAsAction="always"/>
+
+</menu>
